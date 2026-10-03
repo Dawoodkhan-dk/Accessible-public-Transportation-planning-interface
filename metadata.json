@@ -1,0 +1,6 @@
+{
+  "name": "WAYFIND - Accessible Multimodal Transit Planner",
+  "description": "Plan clearer, accessible journeys across buses, metro, auto-rickshaws, and walking with real route geometry, timetable buffers, itemized fares, and step-free navigation.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
